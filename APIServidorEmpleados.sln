@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36811.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIServidorEmpleados", "APIServidorEmpleados.csproj", "{2661C6DD-74A7-48F2-89D8-5DBF691440BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIServidorEmpleados", "APIServidorEmpleados\APIServidorEmpleados.csproj", "{1C750563-A136-9A33-50C9-E9C029911EFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcNakamasCloud", "..\MvcNakamasCloud\MvcNakamasCloud.csproj", "{554BCE69-206F-4C1C-8B8C-A94D0D5EA7A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcNakamasCloud", "MvcNakamasCloud\MvcNakamasCloud.csproj", "{C6C38F12-0159-54C9-635A-F04AAD11C24E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2661C6DD-74A7-48F2-89D8-5DBF691440BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2661C6DD-74A7-48F2-89D8-5DBF691440BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2661C6DD-74A7-48F2-89D8-5DBF691440BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2661C6DD-74A7-48F2-89D8-5DBF691440BA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{554BCE69-206F-4C1C-8B8C-A94D0D5EA7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{554BCE69-206F-4C1C-8B8C-A94D0D5EA7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{554BCE69-206F-4C1C-8B8C-A94D0D5EA7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{554BCE69-206F-4C1C-8B8C-A94D0D5EA7A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C750563-A136-9A33-50C9-E9C029911EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C750563-A136-9A33-50C9-E9C029911EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C750563-A136-9A33-50C9-E9C029911EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C750563-A136-9A33-50C9-E9C029911EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C38F12-0159-54C9-635A-F04AAD11C24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C38F12-0159-54C9-635A-F04AAD11C24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C38F12-0159-54C9-635A-F04AAD11C24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C38F12-0159-54C9-635A-F04AAD11C24E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

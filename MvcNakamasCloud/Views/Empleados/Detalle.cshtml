@@ -1,0 +1,158 @@
+﻿@model MvcNakamasCloud.ViewModels.EmpleadoViewModel
+
+@{
+    ViewData["Title"] = "Detalle Empleado";
+    var asignacionActiva = Model.AsignacionPuestos?.FirstOrDefault(a => a.Estado == "Activo");
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb mb-1">
+                <li class="breadcrumb-item"><a href="/" class="text-decoration-none text-muted">Dashboard</a></li>
+                <li class="breadcrumb-item"><a href="/Empleados" class="text-decoration-none text-muted">Empleados</a></li>
+                <li class="breadcrumb-item active">Detalle</li>
+            </ol>
+        </nav>
+        <h2 class="fw-bold"><i class="fa-solid fa-id-card text-primary me-2"></i>Detalle del Empleado</h2>
+    </div>
+    <div class="d-flex gap-2">
+        <a href="/Empleados" class="btn btn-outline-secondary">
+            <i class="fa-solid fa-arrow-left me-2"></i>Volver
+        </a>
+        <a href="/Empleados/Editar/@Model.IdEmpleado" class="btn btn-primary">
+            <i class="fa-solid fa-pen me-2"></i>Editar
+        </a>
+    </div>
+</div>
+
+<!-- Header -->
+<div class="card border-0 shadow-sm rounded-4 mb-4">
+    <div class="card-body p-4">
+        <div class="d-flex align-items-center gap-4">
+            <div class="position-relative">
+                @if (!string.IsNullOrEmpty(Model.FotoRuta))
+                {
+                    <img src="https://localhost:7203/@Model.FotoRuta"
+                         class="rounded-circle border border-3 shadow"
+                         style="width:100px;height:100px;object-fit:cover" />
+                }
+                else
+                {
+                    <img src="~/img/default-user.png"
+                         class="rounded-circle border border-3 shadow"
+                         style="width:100px;height:100px;object-fit:cover" />
+                }
+                @if (Model.Estado == "Activo")
+                {
+                    <span class="position-absolute bottom-0 end-0 bg-success border border-white rounded-circle"
+                          style="width:18px;height:18px"></span>
+                }
+            </div>
+            <div>
+                <h3 class="fw-bold mb-1">@Model.PrimerNombre @Model.SegundoNombre @Model.PrimerApellido @Model.SegundoApellido</h3>
+                <p class="text-primary fw-semibold mb-1">@Model.NombrePuesto</p>
+                <div class="d-flex gap-3 text-muted small">
+                    <span><i class="fa-solid fa-building me-1"></i>@Model.NombreDepartamento</span>
+                    <span><i class="fa-solid fa-location-dot me-1"></i>@Model.Direccion</span>
+                </div>
+            </div>
+            <div class="ms-auto">
+                @if (Model.Estado == "Activo")
+                {
+                    <span class="badge rounded-pill bg-success-subtle text-success border border-success px-3 py-2 text-uppercase" style="font-size:0.65rem">Activo</span>
+                }
+                else if (Model.Estado == "Inactivo")
+                {
+                    <span class="badge rounded-pill bg-warning-subtle text-warning border border-warning px-3 py-2 text-uppercase" style="font-size:0.65rem">Inactivo</span>
+                }
+                else
+                {
+                    <span class="badge rounded-pill bg-danger-subtle text-danger border border-danger px-3 py-2 text-uppercase" style="font-size:0.65rem">Despedido</span>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row g-4">
+    <!-- Columna izquierda -->
+    <div class="col-lg-8">
+
+        <!-- Información Personal -->
+        <div class="card border-0 shadow-sm rounded-4 mb-4">
+            <div class="card-header bg-white border-0 py-3 ps-4">
+                <h5 class="mb-0 fw-bold text-dark">
+                    <i class="fa-solid fa-user text-primary me-2"></i>Información Personal
+                </h5>
+            </div>
+            <div class="card-body p-4">
+                <div class="row g-4">
+                    <div class="col-md-6">
+                        <p class="text-muted small fw-bold text-uppercase mb-1" style="letter-spacing:0.5px">Correo Electrónico</p>
+                        <p class="fw-medium text-primary mb-0">@Model.Email</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p class="text-muted small fw-bold text-uppercase mb-1" style="letter-spacing:0.5px">Teléfono</p>
+                        <p class="fw-medium mb-0">@(Model.Telefono ?? "—")</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p class="text-muted small fw-bold text-uppercase mb-1" style="letter-spacing:0.5px">Fecha de Nacimiento</p>
+                        <p class="fw-medium mb-0">@Model.FechaNacimiento.ToString("dd MMM yyyy", new System.Globalization.CultureInfo("es-ES"))</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p class="text-muted small fw-bold text-uppercase mb-1" style="letter-spacing:0.5px">Dirección</p>
+                        <p class="fw-medium mb-0">@(Model.Direccion ?? "—")</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Datos Laborales -->
+        <div class="card border-0 shadow-sm rounded-4">
+            <div class="card-header bg-white border-0 py-3 ps-4">
+                <h5 class="mb-0 fw-bold text-dark">
+                    <i class="fa-solid fa-briefcase text-primary me-2"></i>Datos Laborales
+                </h5>
+            </div>
+            <div class="card-body p-4">
+                <div class="row g-4">
+                    <div class="col-md-4">
+                        <p class="text-muted small fw-bold text-uppercase mb-1" style="letter-spacing:0.5px">Código</p>
+                        <p class="fw-bold text-primary font-monospace mb-0">@Model.CodigoEmpleado</p>
+                    </div>
+                    <div class="col-md-4">
+                        <p class="text-muted small fw-bold text-uppercase mb-1" style="letter-spacing:0.5px">Fecha de Contratación</p>
+                        <p class="fw-medium mb-0">@Model.FechaContratacion.ToString("dd MMM yyyy", new System.Globalization.CultureInfo("es-ES"))</p>
+                    </div>
+                    <div class="col-md-4">
+                        <p class="text-muted small fw-bold text-uppercase mb-1" style="letter-spacing:0.5px">Puesto</p>
+                        <p class="fw-medium mb-0">@Model.NombrePuesto</p>
+                    </div>
+                    <div class="col-md-4">
+                        <p class="text-muted small fw-bold text-uppercase mb-1" style="letter-spacing:0.5px">Departamento</p>
+                        <p class="fw-medium mb-0">@Model.NombreDepartamento</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Columna derecha — Salario -->
+    <div class="col-lg-4">
+        <div class="card border-0 shadow-sm rounded-4 bg-primary text-white overflow-hidden">
+            <div class="card-body p-4 position-relative">
+                <div class="position-absolute opacity-10" style="font-size:8rem;right:-1rem;bottom:-1rem">
+                    <i class="fa-solid fa-money-bill-wave"></i>
+                </div>
+                <h5 class="fw-bold mb-3 opacity-90">Datos Financieros</h5>
+                <p class="small opacity-75 mb-1 text-uppercase fw-bold" style="letter-spacing:0.5px">Salario Mensual</p>
+                <p class="display-6 fw-extrabold mb-4">@Model.Salario.ToString("C")</p>
+                <div class="pt-3 border-top border-white border-opacity-25">
+                    <p class="small opacity-75 mb-1 text-uppercase fw-bold" style="letter-spacing:0.5px">Salario Anual</p>
+                    <p class="fs-5 fw-bold mb-0">@((Model.Salario * 12).ToString("C"))</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

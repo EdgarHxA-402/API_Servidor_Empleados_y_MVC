@@ -1,0 +1,196 @@
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\appsettings.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\MvcNakamasCloud.staticwebassets.runtime.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\MvcNakamasCloud.staticwebassets.endpoints.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\MvcNakamasCloud.exe
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\MvcNakamasCloud.deps.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\MvcNakamasCloud.runtimeconfig.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\MvcNakamasCloud.dll
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\MvcNakamasCloud.pdb
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.AssemblyInfoInputs.cache
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.AssemblyInfo.cs
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.RazorAssemblyInfo.cache
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.RazorAssemblyInfo.cs
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\scopedcss\bundle\MvcNakamasCloud.styles.css
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\scopedcss\projectbundle\MvcNakamasCloud.bundle.scp.css
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\n0y33rzlpk-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\s3a3mt90bg-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\cw0zkb0nvc-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\3wyanqh2dc-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\guefjuiwhp-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\uuej67wwy3-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\ndnpd56dsp-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\yp9sz12e59-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\ga02tknc1t-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\0d0ktkzrol-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\upo6i5zsmo-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\zaasg4ziwf-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\4k4ru41u8t-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\00w50aifbt-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\ijs9ttvfq8-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\44sa5lgspl-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\1ke5xdet59-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\gn81iadq9w-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\6wjq5eq2gx-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\2am9h8ruv8-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\r5ceit0yvz-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\jjc80mu4vk-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\jdd7zwqsc4-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\iknlb12dcg-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\9emr7hsved-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\evc05on5ly-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\prm7e6u5br-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\j7s2ja12nk-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\cx554wfbhn-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\czrkxwzm74-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\mnwihhh54q-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\g8apgu18ec-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\2vtjvu5cun-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\3uj427306n-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\2cbkmya3vd-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\z35nrypkm7-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\7g2mrbfofo-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\19hseqydcb-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\dl7omdt06i-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\mkvz9da51i-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\wi47brz3wn-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\kz229ean5x-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\digj45qzrk-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\tk8ax5cbm9-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\a9lwb4ba4r-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\vcyvh1qq9t-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\nmmzux9ore-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\z16lczf3yz-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\62rlyo469t-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\10uslm53ht-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\42fgngv0nd-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\ua9q4bncnd-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\yti641yd84-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\ctp703t5cg-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\24zvw3haqh-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\xgl7ervzrl-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\f8uiauwcdb-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\z3p9tv9q47-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\eeu915rdmu-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\wfo7z4rx3p-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\72udbzargc-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\9vhuytsg2t-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\n63x0ekgsi-{0}-d64asj09m7-d64asj09m7.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\hyi5zzokmg-{0}-d64asj09m7-d64asj09m7.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.dll
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\refint\MvcNakamasCloud.dll
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.pdb
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.genruntimeconfig.cache
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\ref\MvcNakamasCloud.dll
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\appsettings.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\MvcNakamasCloud.staticwebassets.endpoints.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\MvcNakamasCloud.staticwebassets.runtime.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\MvcNakamasCloud.exe
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.AssemblyInfoInputs.cache
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.AssemblyInfo.cs
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.RazorAssemblyInfo.cache
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.RazorAssemblyInfo.cs
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\scopedcss\bundle\MvcNakamasCloud.styles.css
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\scopedcss\projectbundle\MvcNakamasCloud.bundle.scp.css
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\n0y33rzlpk-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\s3a3mt90bg-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\cw0zkb0nvc-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\3wyanqh2dc-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\guefjuiwhp-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\uuej67wwy3-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\ndnpd56dsp-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\yp9sz12e59-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\ga02tknc1t-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\0d0ktkzrol-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\upo6i5zsmo-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\zaasg4ziwf-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\4k4ru41u8t-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\00w50aifbt-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\ijs9ttvfq8-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\44sa5lgspl-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\1ke5xdet59-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\gn81iadq9w-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\6wjq5eq2gx-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\2am9h8ruv8-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\r5ceit0yvz-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\jjc80mu4vk-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\jdd7zwqsc4-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\iknlb12dcg-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\9emr7hsved-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\evc05on5ly-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\prm7e6u5br-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\j7s2ja12nk-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\cx554wfbhn-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\czrkxwzm74-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\mnwihhh54q-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\g8apgu18ec-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\2vtjvu5cun-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\3uj427306n-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\2cbkmya3vd-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\z35nrypkm7-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\7g2mrbfofo-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\19hseqydcb-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\dl7omdt06i-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\mkvz9da51i-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\wi47brz3wn-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\kz229ean5x-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\digj45qzrk-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\tk8ax5cbm9-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\a9lwb4ba4r-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\vcyvh1qq9t-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\nmmzux9ore-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\z16lczf3yz-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\62rlyo469t-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\10uslm53ht-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\42fgngv0nd-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\ua9q4bncnd-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\yti641yd84-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\ctp703t5cg-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\24zvw3haqh-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\xgl7ervzrl-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\f8uiauwcdb-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\z3p9tv9q47-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\eeu915rdmu-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\wfo7z4rx3p-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\72udbzargc-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\9vhuytsg2t-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\n63x0ekgsi-{0}-d64asj09m7-d64asj09m7.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\compressed\hyi5zzokmg-{0}-d64asj09m7-d64asj09m7.gz
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.dll
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\refint\MvcNakamasCloud.dll
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.pdb
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\MvcNakamasCloud.deps.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\MvcNakamasCloud.runtimeconfig.json
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\MvcNakamasCloud.dll
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\bin\Debug\net9.0\MvcNakamasCloud.pdb
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\MvcNakamasCloud.genruntimeconfig.cache
+C:\Users\Edgar Arias\OneDrive - Universidad Central del Este\Escritorio\Cuatrimestre enero abril 2026\Chiro\Arreglos\MvcNakamasCloud\obj\Debug\net9.0\ref\MvcNakamasCloud.dll

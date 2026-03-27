@@ -1,0 +1,195 @@
+﻿@model MvcNakamasCloud.ViewModels.EmpleadoFormViewModel
+
+@{
+    ViewData["Title"] = "Editar Empleado";
+}
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show border-0 shadow-sm mb-4" role="alert">
+        <i class="fa-solid fa-triangle-exclamation me-2"></i>
+        <strong>Error:</strong> @ViewBag.Error
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb mb-1">
+                <li class="breadcrumb-item"><a href="/" class="text-decoration-none text-muted">Dashboard</a></li>
+                <li class="breadcrumb-item"><a href="/Empleados" class="text-decoration-none text-muted">Empleados</a></li>
+                <li class="breadcrumb-item active">Editar Empleado</li>
+            </ol>
+        </nav>
+        <h2 class="fw-bold"><i class="fa-solid fa-user-pen text-primary me-2"></i>Editar Empleado</h2>
+    </div>
+    <div class="d-flex gap-2">
+        <a href="/Empleados" class="btn btn-outline-secondary">
+            <i class="fa-solid fa-arrow-left me-2"></i>Cancelar
+        </a>
+        <button type="submit" form="formEditar" class="btn btn-primary">
+            <i class="fa-solid fa-floppy-disk me-2"></i>Guardar
+        </button>
+    </div>
+</div>
+
+<div class="row g-4">
+
+    <!-- Columna de Foto -->
+    <div class="col-12">
+        <div class="card border-0 shadow-sm rounded-4">
+            <div class="card-header bg-white border-0 py-3 ps-4">
+                <h5 class="mb-0 fw-bold text-dark">
+                    <i class="fa-solid fa-camera text-primary me-2"></i>Fotografía
+                </h5>
+            </div>
+            <div class="card-body p-4">
+                <div class="d-flex align-items-center gap-4">
+                    @if (!string.IsNullOrEmpty(ViewBag.FotoRuta as string))
+                    {
+                        <img src="https://localhost:7203/@ViewBag.FotoRuta"
+                             class="rounded-circle border border-2 shadow-sm"
+                             style="width:100px;height:100px;object-fit:cover" />
+                    }
+                    else
+                    {
+                        <img src="~/img/default-user.png"
+                             class="rounded-circle border border-2 shadow-sm"
+                             style="width:100px;height:100px;object-fit:cover" />
+                    }
+                    <form method="post" action="/Empleados/CargarFoto"
+                          enctype="multipart/form-data" class="d-flex gap-2 align-items-center">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="idEmpleado" value="@Model.IdEmpleado" />
+                        <input type="file" name="foto" class="form-control bg-light border-0 flex-grow-1"
+                               accept=".jpg,.jpeg,.png" style="max-width:300px" />
+                        <button type="submit" class="btn btn-info text-white">
+                            <i class="fa-solid fa-upload me-2"></i>Cargar
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Formulario Principal -->
+    <form id="formEditar" method="post" action="/Empleados/Editar/@Model.IdEmpleado" novalidate class="col-12">
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="IdEmpleado" />
+
+        <!-- Información Personal -->
+        <div class="card border-0 shadow-sm rounded-4 mb-4">
+            <div class="card-header bg-white border-0 py-3 ps-4">
+                <h5 class="mb-0 fw-bold text-dark">
+                    <i class="fa-solid fa-user-tag text-primary me-2"></i>Información Personal
+                </h5>
+            </div>
+            <div class="card-body p-4">
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <label asp-for="CodigoEmpleado" class="form-label fw-semibold text-muted small">Código</label>
+                        <input asp-for="CodigoEmpleado" class="form-control bg-light border-0 py-2 fw-bold text-primary" readonly />
+                    </div>
+                    <div class="col-md-6">
+                        <label asp-for="Email" class="form-label fw-semibold text-muted small">Correo Electrónico</label>
+                        <div class="input-group">
+                            <span class="input-group-text bg-light border-0"><i class="fa-solid fa-envelope text-muted"></i></span>
+                            <input asp-for="Email" class="form-control bg-light border-0 py-2" />
+                        </div>
+                        <span asp-validation-for="Email" class="text-danger small"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label asp-for="PrimerNombre" class="form-label fw-semibold text-muted small">Primer Nombre</label>
+                        <input asp-for="PrimerNombre" class="form-control bg-light border-0 py-2" />
+                        <span asp-validation-for="PrimerNombre" class="text-danger small"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label asp-for="SegundoNombre" class="form-label fw-semibold text-muted small">Segundo Nombre</label>
+                        <input asp-for="SegundoNombre" class="form-control bg-light border-0 py-2" placeholder="Opcional" />
+                    </div>
+                    <div class="col-md-6">
+                        <label asp-for="PrimerApellido" class="form-label fw-semibold text-muted small">Primer Apellido</label>
+                        <input asp-for="PrimerApellido" class="form-control bg-light border-0 py-2" />
+                        <span asp-validation-for="PrimerApellido" class="text-danger small"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label asp-for="SegundoApellido" class="form-label fw-semibold text-muted small">Segundo Apellido</label>
+                        <input asp-for="SegundoApellido" class="form-control bg-light border-0 py-2" placeholder="Opcional" />
+                    </div>
+                    <div class="col-md-6">
+                        <label asp-for="FechaNacimiento" class="form-label fw-semibold text-muted small">Fecha de Nacimiento</label>
+                        <input asp-for="FechaNacimiento" type="date" class="form-control bg-light border-0 py-2" />
+                        <span asp-validation-for="FechaNacimiento" class="text-danger small"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label asp-for="Telefono" class="form-label fw-semibold text-muted small">Teléfono</label>
+                        <div class="input-group">
+                            <span class="input-group-text bg-light border-0"><i class="fa-solid fa-phone text-muted"></i></span>
+                            <input asp-for="Telefono" class="form-control bg-light border-0 py-2" />
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <label asp-for="FechaContratacion" class="form-label fw-semibold text-muted small">Fecha de Contratación</label>
+                        <input asp-for="FechaContratacion" type="date" class="form-control bg-light border-0 py-2" />
+                        <span asp-validation-for="FechaContratacion" class="text-danger small"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label asp-for="Direccion" class="form-label fw-semibold text-muted small">Dirección</label>
+                        <input asp-for="Direccion" class="form-control bg-light border-0 py-2" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Detalles Laborales -->
+        <div class="card border-0 shadow-sm rounded-4">
+            <div class="card-header bg-white border-0 py-3 ps-4">
+                <h5 class="mb-0 fw-bold text-dark">
+                    <i class="fa-solid fa-file-contract text-primary me-2"></i>Detalles Laborales
+                </h5>
+            </div>
+            <div class="card-body p-4">
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <label asp-for="IdDepartamento" class="form-label fw-semibold text-muted small">Departamento</label>
+                        <select asp-for="IdDepartamento" class="form-select bg-light border-0 py-2">
+                            <option value="">-- Seleccione un departamento --</option>
+                            @foreach (var dept in Model.Departamentos)
+                            {
+                                <option value="@dept.IdDepartamento"
+                                        selected="@(dept.IdDepartamento == Model.IdDepartamento ? "selected" : null)">
+                                    @dept.NombreDepartamento
+                                </option>
+                            }
+                        </select>
+                        <span asp-validation-for="IdDepartamento" class="text-danger small"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label asp-for="IdPuesto" class="form-label fw-semibold text-muted small">Puesto</label>
+                        <select asp-for="IdPuesto" class="form-select bg-light border-0 py-2">
+                            <option value="">-- Seleccione un puesto --</option>
+                            @foreach (var puesto in Model.Puestos)
+                            {
+                                <option value="@puesto.IdPuesto"
+                                        selected="@(puesto.IdPuesto == Model.IdPuesto ? "selected" : null)">
+                                    @puesto.NombrePuesto (@puesto.NombreDepartamento)
+                                </option>
+                            }
+                        </select>
+                        <span asp-validation-for="IdPuesto" class="text-danger small"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label asp-for="Salario" class="form-label fw-semibold text-muted small">Salario Mensual</label>
+                        <div class="input-group">
+                            <span class="input-group-text bg-light border-0 fw-bold text-success">$</span>
+                            <input asp-for="Salario" type="number" step="0.01" min="0"
+                                   class="form-control bg-light border-0 py-2 fw-bold" placeholder="0.00" />
+                        </div>
+                        <span asp-validation-for="Salario" class="text-danger small"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

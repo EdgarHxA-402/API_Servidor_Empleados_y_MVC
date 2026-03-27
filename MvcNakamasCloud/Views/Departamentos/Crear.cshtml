@@ -1,0 +1,61 @@
+﻿@model MvcNakamasCloud.ViewModels.DepartamentoFormViewModel
+
+@{
+    ViewData["Title"] = "Nuevo Departamento";
+}
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show border-0 shadow-sm mb-4" role="alert">
+        <i class="fa-solid fa-triangle-exclamation me-2"></i>
+        <strong>Error:</strong> @ViewBag.Error
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb mb-1">
+                <li class="breadcrumb-item"><a href="/" class="text-decoration-none text-muted">Dashboard</a></li>
+                <li class="breadcrumb-item"><a href="/Departamentos" class="text-decoration-none text-muted">Departamentos</a></li>
+                <li class="breadcrumb-item active">Nuevo Departamento</li>
+            </ol>
+        </nav>
+        <h2 class="fw-bold"><i class="fa-solid fa-building text-primary me-2"></i>Nuevo Departamento</h2>
+    </div>
+    <div class="d-flex gap-2">
+        <a href="/Departamentos" class="btn btn-outline-secondary">
+            <i class="fa-solid fa-arrow-left me-2"></i>Cancelar
+        </a>
+        <button type="submit" form="formCrear" class="btn btn-primary">
+            <i class="fa-solid fa-floppy-disk me-2"></i>Guardar
+        </button>
+    </div>
+</div>
+
+<form id="formCrear" method="post" action="/Departamentos/Crear">
+    @Html.AntiForgeryToken()
+
+    <div class="card border-0 shadow-sm rounded-4">
+        <div class="card-header bg-white border-0 py-3 ps-4">
+            <h5 class="mb-0 fw-bold text-dark">
+                <i class="fa-solid fa-plus text-primary me-2"></i>Información del Departamento
+            </h5>
+        </div>
+        <div class="card-body p-4">
+            <div class="row g-3">
+                <div class="col-md-6">
+                    <label asp-for="CodigoDepartamento" class="form-label fw-semibold text-muted small">Código</label>
+                    <input asp-for="CodigoDepartamento" class="form-control bg-light border-0 py-2 fw-bold text-primary" />
+                    <span asp-validation-for="CodigoDepartamento" class="text-danger small"></span>
+                </div>
+                <div class="col-md-6">
+                    <label asp-for="NombreDepartamento" class="form-label fw-semibold text-muted small">Nombre</label>
+                    <input asp-for="NombreDepartamento" class="form-control bg-light border-0 py-2" />
+                    <span asp-validation-for="NombreDepartamento" class="text-danger small"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

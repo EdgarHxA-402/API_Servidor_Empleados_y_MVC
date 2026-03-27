@@ -1,0 +1,172 @@
+﻿@model MvcNakamasCloud.ViewModels.EmpleadoListViewModel
+@{
+    ViewData["Title"] = "Empleados";
+}
+
+<!-- Encabezado de la Página -->
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb mb-1">
+                <li class="breadcrumb-item"><a href="/" class="text-decoration-none text-muted">Dashboard</a></li>
+                <li class="breadcrumb-item active" aria-current="page text-primary">Empleados</li>
+            </ol>
+        </nav>
+        <h2 class="fw-bold"><i class="fa-solid fa-users text-primary me-2"></i>Listado General de Empleados</h2>
+        <p class="text-muted mb-0">Gestione y monitoree todo el personal de la organización.</p>
+    </div>
+    <a href="/Empleados/Crear" class="btn btn-primary btn-lg shadow-sm">
+        <i class="fa-solid fa-user-plus me-2"></i>Nuevo Registro
+    </a>
+</div>
+
+<!-- Sección de Filtros -->
+<div class="card shadow-sm mb-4 border-0 bg-white p-4" style="border-radius: 12px;">
+    <form method="get" action="/Empleados" class="row g-3 align-items-end">
+        <div class="col-md-3">
+            <label class="form-label small fw-bold text-uppercase text-muted" style="letter-spacing: 0.5px;">Nombre</label>
+            <input type="text" name="nombre" value="@Model.FiltroNombre"
+                   class="form-control bg-light border-0 py-2" placeholder="Ej: Ana" />
+        </div>
+        <div class="col-md-3">
+            <label class="form-label small fw-bold text-uppercase text-muted" style="letter-spacing: 0.5px;">Apellido</label>
+            <input type="text" name="apellido" value="@Model.FiltroApellido"
+                   class="form-control bg-light border-0 py-2" placeholder="Ej: Martínez" />
+        </div>
+        <div class="col-md-3">
+            <label class="form-label small fw-bold text-uppercase text-muted" style="letter-spacing: 0.5px;">Fecha Contratación</label>
+            <input type="date" name="fechaContratacion" value="@Model.FiltroFechaContratacion"
+                   class="form-control bg-light border-0 py-2" />
+        </div>
+        <div class="col-md-3 d-flex gap-2">
+            <button type="submit" class="btn btn-primary w-100 py-2 fw-semibold">
+                <i class="fa-solid fa-filter me-2"></i>Filtrar
+            </button>
+            <a href="/Empleados" class="btn btn-outline-secondary w-100 py-2 fw-semibold">
+                Limpiar
+            </a>
+        </div>
+    </form>
+</div>
+
+<!-- Tabla de Empleados -->
+<div class="card shadow-sm border-0 overflow-hidden" style="border-radius: 12px;">
+    <div class="table-responsive">
+        <table class="table table-hover align-middle mb-0">
+            <thead class="bg-light">
+                <tr class="text-uppercase small text-muted fw-bold" style="letter-spacing: 0.5px;">
+                    <th class="ps-4 py-3">Empleado</th>
+                    <th>Puesto / Depto</th>
+                    <th>Salario</th>
+                    <th>Fecha Ingreso</th>
+                    <th>Estado</th>
+                    <th class="text-center pe-4">Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var empleado in Model.Empleados)
+                {
+                    <tr>
+                        <td class="ps-4 py-3">
+                            <div class="d-flex align-items-center">
+                                <div class="me-3">
+                                    @if (!string.IsNullOrEmpty(empleado.FotoRuta))
+                                    {
+                                        <img src="https://localhost:7203/@empleado.FotoRuta"
+                                             class="rounded-circle border border-2 border-white shadow-sm"
+                                             style="width:48px;height:48px;object-fit:cover" />
+                                    }
+                                    else
+                                    {
+                                        <img src="~/img/default-user.png"
+                                             class="rounded-circle border border-2 border-white shadow-sm"
+                                             style="width:48px;height:48px;object-fit:cover" />
+                                    }
+                                </div>
+                                <div>
+                                    <div class="fw-bold text-dark">@empleado.PrimerNombre @empleado.PrimerApellido</div>
+                                    <div class="text-muted small">ID: @empleado.CodigoEmpleado</div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="fw-bold text-dark">@empleado.NombrePuesto</div>
+                            <div class="small text-muted">@empleado.NombreDepartamento</div>
+                        </td>
+                        <td>
+                            <span class="fw-bold text-primary">@empleado.Salario.ToString("C")</span>
+                        </td>
+                        <td class="text-muted">
+                           @empleado.FechaContratacion.ToString("dd MMM yyyy", new System.Globalization.CultureInfo("es-ES"))
+                        </td>
+                        <td>
+                            @if (empleado.Estado == "Activo")
+                            {
+                                <span class="badge rounded-pill bg-success-subtle text-success border border-success px-3 py-2 text-uppercase" style="font-size: 0.65rem;">Activo</span>
+                            }
+                            else if (empleado.Estado == "Inactivo")
+                            {
+                                <span class="badge rounded-pill bg-warning-subtle text-warning border border-warning px-3 py-2 text-uppercase" style="font-size: 0.65rem;">Inactivo</span>
+                            }
+                            else
+                            {
+                                <span class="badge rounded-pill bg-danger-subtle text-danger border border-danger px-3 py-2 text-uppercase" style="font-size: 0.65rem;">Despedido</span>
+                            }
+                        </td>
+                        <td class="text-center pe-4">
+                            <div class="btn-group shadow-sm" role="group">
+                                <a href="/Empleados/Detalle/@empleado.IdEmpleado"
+                                   class="btn btn-white btn-sm border-end" title="Ver detalle">
+                                    <i class="fa-solid fa-eye text-primary"></i>
+                                </a>
+                                <a href="/Empleados/Editar/@empleado.IdEmpleado" class="btn btn-white btn-sm border-end" title="Editar">
+                                    <i class="fa-solid fa-pen text-muted"></i>
+                                </a>
+                                @if (empleado.Estado == "Activo")
+                                {
+                                    <a href="/Empleados/Desactivar/@empleado.IdEmpleado" class="btn btn-white btn-sm border-end text-warning" title="Desactivar">
+                                        <i class="fa-solid fa-user-slash"></i>
+                                    </a>
+                                    <a href="/Empleados/Despedir/@empleado.IdEmpleado" class="btn btn-white btn-sm text-danger" title="Despedir">
+                                        <i class="fa-solid fa-user-xmark"></i>
+                                    </a>
+                                }
+                                else if (empleado.Estado == "Inactivo")
+                                {
+                                    <a href="/Empleados/Activar/@empleado.IdEmpleado" class="btn btn-white btn-sm text-success" title="Activar">
+                                        <i class="fa-solid fa-user-check"></i>
+                                    </a>
+                                }
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    
+    <!-- Footer de la Tabla con Info de Paginacion -->
+    <div class="card-footer bg-white border-top-0 py-3 d-flex justify-content-between align-items-center">
+        <span class="text-muted small">Mostrando <strong>@Model.Empleados.Count()</strong> de <strong>@Model.Pagination.Total</strong> empleados</span>
+        
+        <!-- Paginacion -->
+        <partial name="_Pagination" model='new MvcNakamasCloud.ViewModels.PaginationViewModel {
+            Page = Model.Pagination.Page,
+            PageSize = Model.Pagination.PageSize,
+            Total = Model.Pagination.Total,
+            Pages = Model.Pagination.Pages,
+            FiltroNombre = Model.FiltroNombre,
+            FiltroApellido = Model.FiltroApellido,
+            FiltroFechaContratacion = Model.FiltroFechaContratacion
+        }' />
+    </div>
+</div>
+
+<style>
+    /* Estilos */
+    .bg-light { background-color: #f8f9fa !important; }
+    .btn-white { background-color: #fff; border: 1px solid #dee2e6; }
+    .btn-white:hover { background-color: #f8f9fa; }
+    .table thead th { border-top: 0; }
+    .badge { font-weight: 700; }
+</style>

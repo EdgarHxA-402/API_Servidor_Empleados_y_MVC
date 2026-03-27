@@ -1,0 +1,38 @@
+﻿@model MvcNakamasCloud.ViewModels.PaginationViewModel
+
+<nav>
+    <ul class="pagination">
+        <li class="page-item @(Model.Page == 1 ? "disabled" : "")">
+            <a class="page-link" asp-action="Index"
+               asp-route-page="@(Model.Page - 1)"
+               asp-route-nombre="@Model.FiltroNombre"
+               asp-route-apellido="@Model.FiltroApellido"
+               asp-route-fechaContratacion="@Model.FiltroFechaContratacion">
+                Anterior
+            </a>
+        </li>
+
+        @for (int i = 1; i <= Model.Pages; i++)
+        {
+            <li class="page-item @(Model.Page == i ? "active" : "")">
+                <a class="page-link" asp-action="Index"
+                   asp-route-page="@i"
+                   asp-route-nombre="@Model.FiltroNombre"
+                   asp-route-apellido="@Model.FiltroApellido"
+                   asp-route-fechaContratacion="@Model.FiltroFechaContratacion">
+                    @i
+                </a>
+            </li>
+        }
+
+        <li class="page-item @(Model.Page == Model.Pages ? "disabled" : "")">
+            <a class="page-link" asp-action="Index"
+               asp-route-page="@(Model.Page + 1)"
+               asp-route-nombre="@Model.FiltroNombre"
+               asp-route-apellido="@Model.FiltroApellido"
+               asp-route-fechaContratacion="@Model.FiltroFechaContratacion">
+                Siguiente
+            </a>
+        </li>
+    </ul>
+</nav>
